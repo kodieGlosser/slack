@@ -71,6 +71,4 @@ type Attachment struct {
 
 	Footer     string `json:"footer,omitempty"`
 	FooterIcon string `json:"footer_icon,omitempty"`
-
-	Ts string `json:"ts,omitempty"`
 }
